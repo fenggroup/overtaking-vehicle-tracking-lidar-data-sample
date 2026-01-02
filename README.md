@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Overtaking Vehicle Tracking LiDAR Data (Sample)
 
 This repository contains the dataset used with:

@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+._*
+
+# Python caches (if any scripts are ever used here)
+__pycache__/
+*.py[cod]
